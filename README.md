@@ -4,11 +4,11 @@ Welcome to our dedicated repository, a central hub for tracking and documenting 
 
 **Asset Binding** is at the heart of this initiative. By effectively binding BEP2 and BEP8 assets to BEP20, we can ensure greater liquidity, interoperability, and utility across BNBChain ecosystem. This process not only enhances the efficiency of transactions but also opens the door for innovative cross-chain functionalities. For details, please refer to [BEP2/BEP8 asset sunset annoucement](https://www.bnbchain.org/en/blog/bep2-bep8-asset-sunset-announcement).
 
-In this repository, we meticulously track the progress, challenges, and milestones of BEP2/BEP8 asset binding in the BC Fusion project. Our aim is to provide a comprehensive and up-to-date resource that reflects the dynamic and evolving nature of blockchain technology.
+In this repository, we meticulously track the progress, challenges, and milestones of BEP2/BEP8 asset binding in the BC Fusion project. Our aim is to provide a comprehensive and up-to-date resource that reflects the dynamic and evolving nature of blockchain technology. 
 
 | **Network** | **Token**  | **Deployed on BSC** | Comments |
 | ----------- | ---------- | ------------------- | -------- |
-| BNB         | AERGO      | No                  |          |
+| BNB         | AERGO      | No                  | Informed |
 | BNB         | ARPA       | Yes                 |          |
 | BNB         | AVAOLD     | Yes                 |          |
 | BNB         | BAKE       | Yes                 |          |
