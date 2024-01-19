@@ -8,7 +8,7 @@ In this repository, we meticulously track the progress, challenges, and mileston
 
 | **Network** | **Token**  | **Deployed on BSC** | Comments |
 | ----------- | ---------- | ------------------- | -------- |
-| BNB         | AERGO      | No                  | Informed |
+| BNB         | AERGO      | No                  |          |
 | BNB         | ARPA       | Yes                 |          |
 | BNB         | AVAOLD     | Yes                 |          |
 | BNB         | BAKE       | Yes                 |          |
