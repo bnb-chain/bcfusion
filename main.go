@@ -64,6 +64,12 @@ func updateReadme(result string) {
 }
 
 func getTokenBindStatus() string {
+	cannotBindTokens := make(map[string]struct{})
+	cannotBindTokens["WINB-41F"] = struct{}{}
+	cannotBindTokens["TUSDB-888"] = struct{}{}
+	cannotBindTokens["TRXB-2E6"] = struct{}{}
+	cannotBindTokens["IDRTB-178"] = struct{}{}
+
 	client := rpc.NewRPCClient(nodeAddr, ctypes.ProdNetwork)
 	tokens, err := client.ListAllTokens(0, 10000)
 	if err != nil {
@@ -71,7 +77,8 @@ func getTokenBindStatus() string {
 	}
 	result := ""
 	for _, token := range tokens {
-		if token.ContractAddress != "" && token.Symbol != "BNB" {
+		_, cannotBind := cannotBindTokens[token.Symbol]
+		if token.ContractAddress != "" && token.Symbol != "BNB" && !cannotBind {
 			splits := strings.Split(token.Symbol, "-")
 			line := fmt.Sprintf("| %s | %s | %s | |\n", splits[0], token.Symbol, token.ContractAddress)
 			result = result + line
