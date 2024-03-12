@@ -13,6 +13,13 @@ In this repository, we meticulously track the progress, challenges, and mileston
 Fusion project. Our aim is to provide a comprehensive and up-to-date resource that reflects the dynamic and evolving
 nature of blockchain technology.
 
+Be noted: even a BEP20 token is already issued on the BSC, it does not mean the asset is bound, the asset owner must
+take actions to bind them together to enable the crosschain transfer. Please refer to the aforementioned announcement
+for more information. In the following table, the `BSC Contract Address` field only shows the contract address for
+the bound assets.
+
+<!-- AUTO_UPDATE_START -->
+
 | Asset    | Symbol       | BSC Contract Address                       | Comments |
 |----------|--------------|--------------------------------------------|----------|
 | AAVE     | AAVE-8FA     | 0xfb6115445Bff7b52FeB98650C87f44907E58f802 |          |
@@ -367,3 +374,15 @@ nature of blockchain technology.
 | ZPORT    | ZPORT-AAB    |                                            |          |
 | ZREMT    | ZREMT-B76    |                                            |          |
 | ZYUL     | ZYUL-C2C     |                                            |          |
+
+<!-- AUTO_UPDATE_END -->
+
+
+**Tokens Cannot Bind**
+
+| Asset | Symbol    | Comments                                                                         |
+|-------|-----------|----------------------------------------------------------------------------------|
+| WIN   | WINB-41F  | please deposit BEP2 to exchanges (e.g., Binance) and withdraw BEP20 for transfer |
+| TUSD  | TUSDB-888 | please deposit BEP2 to exchanges (e.g., Binance) and withdraw BEP20 for transfer |
+| TRX   | TRXB-2E6  | please deposit BEP2 to exchanges (e.g., Binance) and withdraw BEP20 for transfer |
+| IDRT  | IDRTB-178 | please deposit BEP2 to exchanges (e.g., Binance) and withdraw BEP20 for transfer |
