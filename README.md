@@ -13,6 +13,7 @@ In this repository, we meticulously track the progress, challenges, and mileston
 Fusion project. Our aim is to provide a comprehensive and up-to-date resource that reflects the dynamic and evolving
 nature of blockchain technology.
 
+<!-- AUTO_UPDATE_START -->
 | Asset    | Symbol       | BSC Contract Address                       | Comments |
 |----------|--------------|--------------------------------------------|----------|
 | AAVE     | AAVE-8FA     | 0xfb6115445Bff7b52FeB98650C87f44907E58f802 |          |
@@ -367,3 +368,4 @@ nature of blockchain technology.
 | ZPORT    | ZPORT-AAB    |                                            |          |
 | ZREMT    | ZREMT-B76    |                                            |          |
 | ZYUL     | ZYUL-C2C     |                                            |          |
+<!-- AUTO_UPDATE_END -->
