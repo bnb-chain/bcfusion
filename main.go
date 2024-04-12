@@ -62,7 +62,7 @@ func updateReadme(result string) {
 	replace := false
 	for _, line := range original {
 		if strings.HasPrefix(line, endIndicator) {
-			current = append(current, "| Asset | Symbol | BSC Contract Address | Media | Website | Contact Email |")
+			current = append(current, "| Asset | Symbol | Bind Status | Media | Website | Contact Email |")
 			current = append(current, "|-|-|-|-|-|-|")
 			current = append(current, result) // append result
 			replace = false
@@ -105,7 +105,7 @@ func getTokenBindStatus() string {
 			asset, _ := getAsset(token.Symbol)
 			media, website, contactEmail := formatAsset(asset)
 			splits := strings.Split(token.Symbol, "-")
-			line := fmt.Sprintf("| %s | %s | %s | %s | %s | %s |\n",
+			line := fmt.Sprintf("| %s | %s | [✅Yes](https://bscscan.com/address/%s) | %s | %s | %s | \n",
 				splits[0], token.Symbol, token.ContractAddress, media, website, contactEmail)
 			result = result + line
 		}
@@ -116,7 +116,7 @@ func getTokenBindStatus() string {
 			asset, _ := getAsset(token.Symbol)
 			media, website, contactEmail := formatAsset(asset)
 			splits := strings.Split(token.Symbol, "-")
-			line := fmt.Sprintf("| %s | %s | | | %s | %s | %s |\n",
+			line := fmt.Sprintf("| %s | %s | ⚠️No | %s | %s | %s |\n",
 				splits[0], token.Symbol, media, website, contactEmail)
 			result = result + line
 		}
@@ -146,12 +146,12 @@ func formatAsset(asset *Asset) (string, string, string) {
 
 	website := ""
 	if asset.OfficialSiteUrl != "" {
-		website = fmt.Sprintf("[Website](%s)", asset.OfficialSiteUrl)
+		website = fmt.Sprintf("[%s](%s)", asset.OfficialSiteUrl, asset.OfficialSiteUrl)
 	}
 
 	contactEmail := ""
 	if asset.ContactEmail != "@" && asset.ContactEmail != "" {
-		contactEmail = fmt.Sprintf("[Email](mailto:%s)", asset.ContactEmail)
+		contactEmail = fmt.Sprintf("[%s](mailto:%s)", asset.ContactEmail, asset.ContactEmail)
 	}
 
 	return media, website, contactEmail
