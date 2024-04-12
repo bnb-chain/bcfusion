@@ -385,3 +385,4 @@ the bound assets.
 | TUSD  | TUSDB-888 | please deposit BEP2 to exchanges (e.g., Binance) and withdraw BEP20 for transfer |
 | TRX   | TRXB-2E6  | please deposit BEP2 to exchanges (e.g., Binance) and withdraw BEP20 for transfer |
 | IDRT  | IDRTB-178 | please deposit BEP2 to exchanges (e.g., Binance) and withdraw BEP20 for transfer |
+| TROY  | TROY-B98  | https://www.troyswap.io/bridge                                                   |
