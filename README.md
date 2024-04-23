@@ -348,19 +348,19 @@ the bound assets.
 | VDX | VDX-A17 | ⚠️No |  |  |  |
 | VIDT | VIDT-F53 | ⚠️No | [Telegram](https://t.me/vidtoken) [Reddit](https://www.reddit.com/r/VIDT) [Medium](https://medium.com/@pim_vee) [Youtube](https://www.youtube.com/channel/UCh6xfbjMUeYFUO-2O_wRSBA/videos) [Twitter](https://twitter.com/v_id_blockchain) [Github](https://github.com/V-ID/V-ID-Token) [Coinmarketcap](https://coinmarketcap.com/currencies/v-id/) [Linkedin](https://www.linkedin.com/company/v-id/) [Binance Research](https://research.binance.com/en/projects/vidt)  | [https://about.v-id.org/token](https://about.v-id.org/token) | [service@v-id.org](mailto:service@v-id.org) |
 | VNDC | VNDC-DB9 | ⚠️No | [Telegram](https://t.me/vndcvietnam) [Medium](https://medium.com/vndc-ltd) [Twitter](https://twitter.com/Vndcstable) [Facebook](https://www.facebook.com/vndc.io) [Github](https://github.com/vndc-it)  | [https://vndc.io/](https://vndc.io/) | [hi@vndc.io](mailto:hi@vndc.io) |
-| VOTE | VOTE-FD4 | ⚠️No |  |  |  |
-| VRAB | VRAB-B56 | ⚠️No |  |  |  |
+| VOTE | VOTE-FD4 | ⚠️No | [Telegram](https://t.me/agorablockchain) [Reddit](https://www.reddit.com/r/agora) [Medium](https://medium.com/agorablockchain) [Twitter](https://twitter.com/AgoraBlockchain) [Linkedin](https://www.linkedin.com/company/agorablockchain/)  | [https://agora.vote/](https://agora.vote/) | [ICO@agora.vote](mailto:ICO@agora.vote) |
+| VRAB | VRAB-B56 | ⚠️No | [Telegram](http://t.me/verasitychat) [Twitter](https://twitter.com/verasitytech) [Facebook](https://facebook.com/verasitytech)  | [https://verasity.io](https://verasity.io) |  |
 | WGR | WGR-D3D | ⚠️No |  |  |  |
-| WICC | WICC-01D | ⚠️No |  |  |  |
-| WINB | WINB-41F | ⚠️No |  |  |  |
-| WISH | WISH-2D5 | ⚠️No |  |  |  |
+| WICC | WICC-01D | ⚠️No | [Telegram](https://t.me/wiccofficial) [Facebook](https://www.facebook.com/waykichainofficial) [Reddit](https://www.reddit.com/r/WICCProject/) [Medium](https://medium.com/@waykichainwicc) [Youtube]( https://www.youtube.com/channel/UCjudZhgPcAX74LVxi23kKvg) [Twitter](https://twitter.com/wayki_chain) [Coinmarketcap](https://coinmarketcap.com/zh/currencies/waykichain/) [Binance Info](https://info.binance.com/en/currencies/waykichain) [Linkedin](https://www.linkedin.com/company/waykichain%E7%BB%B4%E5%9F%BA%E9%93%BE/) [Github](https://github.com/WaykiChain/WaykiChain)  | [https://www.waykichain.com/](https://www.waykichain.com/) | [biz@waykichainhk.com](mailto:biz@waykichainhk.com) |
+| WINB | WINB-41F | ⚠️No | [Telegram](https://t.me/WINk_org_official) [Medium](https://medium.com/@winkfoundation) [Twitter](https://twitter.com/winkorg) [Binance Research](https://research.binance.com/en/projects/wink)  | [https://www.wink.org/#/](https://www.wink.org/#/) | [pr@wink.org](mailto:pr@wink.org) |
+| WISH | WISH-2D5 | ⚠️No | [Twitter](https://twitter.com/mywishplatform) [Telegram](https://t.me/MyWish_platform)  | [https://mywish.io/](https://mywish.io/) |  |
 | WOOPX | WOOPX-9C4 | ⚠️No |  |  |  |
-| WRX | WRX-ED1 | ⚠️No |  |  |  |
+| WRX | WRX-ED1 | ⚠️No | [Telegram](https://t.me/wazirx) [Medium](https://medium.com/wazirx) [Youtube](https://youtube.com/wazirx) [Twitter](https://twitter.com/wazirxindia) [Facebook](https://www.facebook.com/wazirx) [Coinmarketcap](https://coinmarketcap.com/exchanges/wazirx) [Linkedin](https://www.linkedin.com/company/wazirx) [Github](https://github.com/wazirx) [Binance Research](https://research.binance.com/en/projects/wazirx)  | [https://wazirx.com](https://wazirx.com) | [dev@wazirx.com](mailto:dev@wazirx.com) |
 | XBASE | XBASE-CD2 | ⚠️No |  |  |  |
 | XIO | XIO-B05 | ⚠️No |  |  |  |
-| XNS | XNS-760 | ⚠️No |  |  |  |
-| XRPBEAR | XRPBEAR-00B | ⚠️No |  |  |  |
-| XRPBULL | XRPBULL-E7C | ⚠️No |  |  |  |
+| XNS | XNS-760 | ⚠️No | [Twitter](https://twitter.com/xeonbit) [Facebook](https://www.facebook.com/xeonbit) [Telegram](https://t.me/xeonbitgroup) [Discord](https://discordapp.com/invite/HYcJPFG) [Youtube](https://www.youtube.com/channel/UCn04eVg2x_j7BjuSoV1mC0g) [Medium](https://medium.com/@xeonbit) [Reddit](https://www.reddit.com/r/Xeonbit/) [Linkedin](https://www.linkedin.com/company/xeonbit/)  | [https://xeonbit.com/](https://xeonbit.com/) |  |
+| XRPBEAR | XRPBEAR-00B | ⚠️No | [Telegram](https://t.me/FTX_Official)  | [https://ftx.com/](https://ftx.com/) |  |
+| XRPBULL | XRPBULL-E7C | ⚠️No | [Telegram](https://t.me/FTX_Official)  | [https://ftx.com/](https://ftx.com/) |  |
 | XWG | XWG-478 | ⚠️No |  |  |  |
 | YEE | YEE-EAE | ⚠️No |  |  |  |
 | YELUM | YELUM-0B7 | ⚠️No |  |  |  |
