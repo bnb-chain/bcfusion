@@ -28,7 +28,7 @@ const explorerAssetAddr = "https://explorer.bnbchain.org/api/v1/asset?asset="
 const startIndicator = "<!-- AUTO_UPDATE_START -->"
 const endIndicator = "<!-- AUTO_UPDATE_END -->"
 const bcPegAccount = "bnb1v8vkkymvhe2sf7gd2092ujc6hweta38xadu2pj"
-const bscTokenHub = "0x0000000000000000000000000000000000001004"
+const bscTokenHub = "0x3Ff1d56925e9418D97F9Ce2cE0c772C958985bc5"
 
 func main() {
 	// update readme to track token bind status
