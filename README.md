@@ -354,7 +354,7 @@ the bound assets.
 | WGR | WGR-D3D | ⚠️No |  |  |  |
 | WICC | WICC-01D | ⚠️No | [Telegram](https://t.me/wiccofficial) [Facebook](https://www.facebook.com/waykichainofficial) [Reddit](https://www.reddit.com/r/WICCProject/) [Medium](https://medium.com/@waykichainwicc) [Youtube]( https://www.youtube.com/channel/UCjudZhgPcAX74LVxi23kKvg) [Twitter](https://twitter.com/wayki_chain) [Coinmarketcap](https://coinmarketcap.com/zh/currencies/waykichain/) [Binance Info](https://info.binance.com/en/currencies/waykichain) [Linkedin](https://www.linkedin.com/company/waykichain%E7%BB%B4%E5%9F%BA%E9%93%BE/) [Github](https://github.com/WaykiChain/WaykiChain)  | [https://www.waykichain.com/](https://www.waykichain.com/) | [biz@waykichainhk.com](mailto:biz@waykichainhk.com) |
 | WINB | WINB-41F | ⚠️No | [Telegram](https://t.me/WINk_org_official) [Medium](https://medium.com/@winkfoundation) [Twitter](https://twitter.com/winkorg) [Binance Research](https://research.binance.com/en/projects/wink)  | [https://www.wink.org/#/](https://www.wink.org/#/) | [pr@wink.org](mailto:pr@wink.org) |
-| WISH | WISH-2D5 | ⚠️No |  |  |  |
+| WISH | WISH-2D5 | ⚠️No | [Twitter](https://twitter.com/mywishplatform) [Telegram](https://t.me/MyWish_platform)  | [https://mywish.io/](https://mywish.io/) |  |
 | WOOPX | WOOPX-9C4 | ⚠️No |  |  |  |
 | XBASE | XBASE-CD2 | ⚠️No |  |  |  |
 | XIO | XIO-B05 | ⚠️No |  |  |  |
