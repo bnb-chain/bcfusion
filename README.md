@@ -244,18 +244,18 @@ the bound assets.
 | MXER | MXER-32E | ⚠️No |  |  |  |
 | MZK | MZK-2C7 | ⚠️No | [Twitter](https://twitter.com/muzika_official) [Medium](https://medium.com/@muzika_official) [Telegram](https://t.me/muzika_english)  |  |  |
 | NEW | NEW-09E | ⚠️No | [Telegram](https://t.me/newtonproject) [Reddit](https://www.reddit.com/user/newtonproject) [Medium](https://medium.com/@newtonproject) [Youtube](https://www.youtube.com/channel/UCO3hbqzT5abDbVKzK5EQigg) [Twitter](https://twitter.com/newton_project) [Facebook](https://www.facebook.com/newtonproject) [Coinmarketcap](https://coinmarketcap.com/currencies/newton/) [Binance Research](https://research.binance.com/en/projects/newton)  | [https://www.newtonproject.org/](https://www.newtonproject.org/) | [contact@newtonproject.org](mailto:contact@newtonproject.org) |
-| NEXO | NEXO-A84 | ⚠️No | [Medium](https://medium.com/nexo) [Twitter](https://twitter.com/NexoFinance) [Facebook](https://www.facebook.com/NexoFinance) [Coinmarketcap](https://coinmarketcap.com/currencies/nexo/) [Youtube](https://www.youtube.com/nexofinance) [Reddit](https://www.reddit.com/r/Nexo/) [Binance Info](https://info.binance.com/en/currencies/nexo)  | [https://nexo.io/](https://nexo.io/) | [info@nexo.io](mailto:info@nexo.io) |
-| NODE | NODE-F3A | ⚠️No | [Telegram](https://t.me/Pocketnode_techsupport) [Reddit](https://www.reddit.com/r/PocketNode/) [Medium](https://medium.com/pocket-node) [Twitter](https://twitter.com/pocketnodes)  | [https://pocketnode.net/](https://pocketnode.net/) | [support@pocketnode.net](mailto:support@pocketnode.net) |
+| NEXO | NEXO-A84 | ⚠️No |  |  |  |
+| NODE | NODE-F3A | ⚠️No |  |  |  |
 | NOIZB | NOIZB-878 | ⚠️No |  |  |  |
-| ONE | ONE-5F9 | ⚠️No | [Telegram](https://t.me/harmony_one) [Twitter](https://twitter.com/harmonyprotocol) [Facebook](https://www.facebook.com/harmonyoneprotocol/) [Medium](https://medium.com/harmony-one) [Youtube](https://harmony.one/youtube) [Github](https://github.com/harmony-one) [Binance Research](https://research.binance.com/en/projects/harmony)  | [https://harmony.one/](https://harmony.one/) |  |
-| OWTX | OWTX-A6B | ⚠️No | [Twitter]( https://twitter.com/openweb_network) [Telegram]( https://t.me/openweb_network) [Medium]( https://medium.com/openweb-network)  | [https://openweb.network/](https://openweb.network/) |  |
+| ONE | ONE-5F9 | ⚠️No |  |  |  |
+| OWTX | OWTX-A6B | ⚠️No |  |  |  |
 | PALEO | PALEO-D1B | ⚠️No |  |  |  |
 | PALQI | PALQI-063 | ⚠️No |  |  |  |
 | PCAT | PCAT-4BB | ⚠️No |  |  |  |
 | PFIO | PFIO-7D0 | ⚠️No |  |  |  |
 | PHV | PHV-4A1 | ⚠️No |  |  |  |
 | PIBNB | PIBNB-43C | ⚠️No |  |  |  |
-| PLG | PLG-D8D | ⚠️No | [Twitter](https://twitter.com/Pledgecamp) [Telegram](https://t.me/pledgecamp) [Medium](https://medium.com/pledgecamp)  | [https://pledgecamp.com/](https://pledgecamp.com/) |  |
+| PLG | PLG-D8D | ⚠️No |  |  |  |
 | PLMT | PLMT-CB5 | ⚠️No |  |  |  |
 | POPB | POPB-400 | ⚠️No |  |  |  |
 | PPE | PPE-942 | ⚠️No |  |  |  |
@@ -264,8 +264,8 @@ the bound assets.
 | PROM | PROM-BB3 | ⚠️No |  |  |  |
 | PRTUS | PRTUS-95B | ⚠️No |  |  |  |
 | PSG | PSG-CEE | ⚠️No |  |  |  |
-| PVT | PVT-554 | ⚠️No | [Telegram](https://t.me/pivotglobal) [Twitter](https://twitter.com/pivot_pvt) [Binance Info](https://info.binance.com/en/currencies/pivot-token)  | [https://www.pivot.one](https://www.pivot.one) | [support@pivot.one](mailto:support@pivot.one) |
-| PYN | PYN-C37 | ⚠️No | [Telegram](https://t.me/paycent) [Medium](https://medium.com/@paycent) [Twitter](https://twitter.com/@PaycentGlobal) [Facebook](https://www.facebook.com/paycent.sg) [Coinmarketcap](https://coinmarketcap.com/currencies/paycent/)  | [https://paycent.com/](https://paycent.com/) | [support@paycent.com](mailto:support@paycent.com) |
+| PVT | PVT-554 | ⚠️No |  |  |  |
+| PYN | PYN-C37 | ⚠️No |  |  |  |
 | QARK | QARK-FCE | ⚠️No |  |  |  |
 | QBC | QBC-ADA | ⚠️No |  |  |  |
 | QBX | QBX-38C | ⚠️No |  |  |  |
