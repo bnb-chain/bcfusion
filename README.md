@@ -255,7 +255,7 @@ the bound assets.
 | PFIO | PFIO-7D0 | ⚠️No |  |  |  |
 | PHV | PHV-4A1 | ⚠️No |  |  |  |
 | PIBNB | PIBNB-43C | ⚠️No |  |  |  |
-| PLG | PLG-D8D | ⚠️No |  |  |  |
+| PLG | PLG-D8D | ⚠️No | [Twitter](https://twitter.com/Pledgecamp) [Telegram](https://t.me/pledgecamp) [Medium](https://medium.com/pledgecamp)  | [https://pledgecamp.com/](https://pledgecamp.com/) |  |
 | PLMT | PLMT-CB5 | ⚠️No |  |  |  |
 | POPB | POPB-400 | ⚠️No |  |  |  |
 | PPE | PPE-942 | ⚠️No |  |  |  |
@@ -298,11 +298,11 @@ the bound assets.
 | SETSU | SETSU-559 | ⚠️No |  |  |  |
 | SHE | SHE-0FA | ⚠️No |  |  |  |
 | SIMT | SIMT-E65 | ⚠️No |  |  |  |
-| SLV | SLV-986 | ⚠️No |  |  |  |
+| SLV | SLV-986 | ⚠️No | [Telegram](https://t.me/silverwayotc) [Medium](https://medium.com/silverwayplatform) [Binance Info](https://info.binance.com/en/currencies/silverway) [Twitter](https://twitter.com/silverwayotc) [Coinmarketcap](https://coinmarketcap.com/currencies/silverway/)  | [https://silverway.io](https://silverway.io) | [sergey@silverway.io](mailto:sergey@silverway.io) |
 | SNDD | SNDD-384 | ⚠️No |  |  |  |
 | SOLEN | SOLEN-263 | ⚠️No |  |  |  |
 | SPIN | SPIN-9DD | ⚠️No |  |  |  |
-| SPNDB | SPNDB-916 | ⚠️No |  |  |  |
+| SPNDB | SPNDB-916 | ⚠️No | [Twitter](https://twitter.com/SpendFoundation) [Facebook](https://facebook.com/SpendFoundation) [Telegram](https://t.me/SpendChat) [Reddit](https://reddit.com/r/Spend) [Instagram](https://www.instagram.com/SpendCard/) [Medium](https://medium.com/spend)  | [https://spendcoin.org](https://spendcoin.org) |  |
 | SPOOL | SPOOL-1F0 | ⚠️No |  |  |  |
 | SPTIX | SPTIX-826 | ⚠️No |  |  |  |
 | STIPS | STIPS-14F | ⚠️No |  |  |  |
