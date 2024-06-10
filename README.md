@@ -288,7 +288,7 @@ the bound assets.
 | RPTT | RPTT-B83 | ⚠️No |  |  |  |
 | RTGE | RTGE-715 | ⚠️No |  |  |  |
 | RUNE | RUNE-67C | ⚠️No |  |  |  |
-| RUNE | RUNE-B1A | ⚠️No |  |  |  |
+| RUNE | RUNE-B1A | ⚠️No |  | [https://thorchain.org](https://thorchain.org) |  |
 | RVID | RVID-807 | ⚠️No |  |  |  |
 | SBC | SBC-5D4 | ⚠️No |  |  |  |
 | SCK | SCK-268 | ⚠️No |  |  |  |
@@ -298,11 +298,11 @@ the bound assets.
 | SETSU | SETSU-559 | ⚠️No |  |  |  |
 | SHE | SHE-0FA | ⚠️No |  |  |  |
 | SIMT | SIMT-E65 | ⚠️No |  |  |  |
-| SLV | SLV-986 | ⚠️No | [Telegram](https://t.me/silverwayotc) [Medium](https://medium.com/silverwayplatform) [Binance Info](https://info.binance.com/en/currencies/silverway) [Twitter](https://twitter.com/silverwayotc) [Coinmarketcap](https://coinmarketcap.com/currencies/silverway/)  | [https://silverway.io](https://silverway.io) | [sergey@silverway.io](mailto:sergey@silverway.io) |
+| SLV | SLV-986 | ⚠️No |  |  |  |
 | SNDD | SNDD-384 | ⚠️No |  |  |  |
 | SOLEN | SOLEN-263 | ⚠️No |  |  |  |
 | SPIN | SPIN-9DD | ⚠️No |  |  |  |
-| SPNDB | SPNDB-916 | ⚠️No | [Twitter](https://twitter.com/SpendFoundation) [Facebook](https://facebook.com/SpendFoundation) [Telegram](https://t.me/SpendChat) [Reddit](https://reddit.com/r/Spend) [Instagram](https://www.instagram.com/SpendCard/) [Medium](https://medium.com/spend)  | [https://spendcoin.org](https://spendcoin.org) |  |
+| SPNDB | SPNDB-916 | ⚠️No |  |  |  |
 | SPOOL | SPOOL-1F0 | ⚠️No |  |  |  |
 | SPTIX | SPTIX-826 | ⚠️No |  |  |  |
 | STIPS | STIPS-14F | ⚠️No |  |  |  |
