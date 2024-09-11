@@ -289,7 +289,7 @@ the bound assets.
 | RPTT | RPTT-B83 | ⚠️No |  |  |  |
 | RTGE | RTGE-715 | ⚠️No |  |  |  |
 | RUNE | RUNE-67C | ⚠️No |  |  |  |
-| RUNE | RUNE-B1A | ⚠️No |  |  |  |
+| RUNE | RUNE-B1A | ⚠️No |  | [https://thorchain.org](https://thorchain.org) |  |
 | RVID | RVID-807 | ⚠️No |  |  |  |
 | SBC | SBC-5D4 | ⚠️No |  |  |  |
 | SCK | SCK-268 | ⚠️No |  |  |  |
