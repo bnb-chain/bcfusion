@@ -265,8 +265,8 @@ the bound assets.
 | PROM | PROM-BB3 | ⚠️No |  |  |  |
 | PRTUS | PRTUS-95B | ⚠️No |  |  |  |
 | PSG | PSG-CEE | ⚠️No |  |  |  |
-| PVT | PVT-554 | ⚠️No | [Telegram](https://t.me/pivotglobal) [Twitter](https://twitter.com/pivot_pvt) [Binance Info](https://info.binance.com/en/currencies/pivot-token)  | [https://www.pivot.one](https://www.pivot.one) | [support@pivot.one](mailto:support@pivot.one) |
-| PYN | PYN-C37 | ⚠️No | [Telegram](https://t.me/paycent) [Medium](https://medium.com/@paycent) [Twitter](https://twitter.com/@PaycentGlobal) [Facebook](https://www.facebook.com/paycent.sg) [Coinmarketcap](https://coinmarketcap.com/currencies/paycent/)  | [https://paycent.com/](https://paycent.com/) | [support@paycent.com](mailto:support@paycent.com) |
+| PVT | PVT-554 | ⚠️No |  |  |  |
+| PYN | PYN-C37 | ⚠️No |  |  |  |
 | QARK | QARK-FCE | ⚠️No |  |  |  |
 | QBC | QBC-ADA | ⚠️No |  |  |  |
 | QBX | QBX-38C | ⚠️No |  |  |  |
@@ -289,7 +289,7 @@ the bound assets.
 | RPTT | RPTT-B83 | ⚠️No |  |  |  |
 | RTGE | RTGE-715 | ⚠️No |  |  |  |
 | RUNE | RUNE-67C | ⚠️No |  |  |  |
-| RUNE | RUNE-B1A | ⚠️No |  | [https://thorchain.org](https://thorchain.org) |  |
+| RUNE | RUNE-B1A | ⚠️No |  |  |  |
 | RVID | RVID-807 | ⚠️No |  |  |  |
 | SBC | SBC-5D4 | ⚠️No |  |  |  |
 | SCK | SCK-268 | ⚠️No |  |  |  |
@@ -299,11 +299,11 @@ the bound assets.
 | SETSU | SETSU-559 | ⚠️No |  |  |  |
 | SHE | SHE-0FA | ⚠️No |  |  |  |
 | SIMT | SIMT-E65 | ⚠️No |  |  |  |
-| SLV | SLV-986 | ⚠️No | [Telegram](https://t.me/silverwayotc) [Medium](https://medium.com/silverwayplatform) [Binance Info](https://info.binance.com/en/currencies/silverway) [Twitter](https://twitter.com/silverwayotc) [Coinmarketcap](https://coinmarketcap.com/currencies/silverway/)  | [https://silverway.io](https://silverway.io) | [sergey@silverway.io](mailto:sergey@silverway.io) |
+| SLV | SLV-986 | ⚠️No |  |  |  |
 | SNDD | SNDD-384 | ⚠️No |  |  |  |
 | SOLEN | SOLEN-263 | ⚠️No |  |  |  |
 | SPIN | SPIN-9DD | ⚠️No |  |  |  |
-| SPNDB | SPNDB-916 | ⚠️No | [Twitter](https://twitter.com/SpendFoundation) [Facebook](https://facebook.com/SpendFoundation) [Telegram](https://t.me/SpendChat) [Reddit](https://reddit.com/r/Spend) [Instagram](https://www.instagram.com/SpendCard/) [Medium](https://medium.com/spend)  | [https://spendcoin.org](https://spendcoin.org) |  |
+| SPNDB | SPNDB-916 | ⚠️No |  |  |  |
 | SPOOL | SPOOL-1F0 | ⚠️No |  |  |  |
 | SPTIX | SPTIX-826 | ⚠️No |  |  |  |
 | STIPS | STIPS-14F | ⚠️No |  |  |  |
@@ -312,61 +312,61 @@ the bound assets.
 | SWIPE.B | SWIPE.B-DC0 | ⚠️No |  |  |  |
 | SWZL | SWZL-E0C | ⚠️No |  |  |  |
 | SYNDA | SYNDA-4FA | ⚠️No |  |  |  |
-| TAUDB | TAUDB-888 | ⚠️No | [Reddit](https://www.reddit.com/r/TrustToken/) [Github](https://github.com/TrustToken) [Linkedin](https://www.linkedin.com/company/trusttoken/) [Medium](https://blog.trusttoken.com) [Telegram](https://t.me/joinchat/HihkMkTja1gIyBRM1J1_vg) [Twitter](https://twitter.com/TrustToken)  | [https://trusttoken.com](https://trusttoken.com) | [exchange-support@trusttoken.com](mailto:exchange-support@trusttoken.com) |
-| TBC | TBC-3A7 | ⚠️No | [Telegram](https://t.me/joinchat/AAAAAFKdWltCBS0pf0ETiQ) [Instagram](https://www.instagram.com/tbcc_labs/) [Twitter](https://twitter.com/LabsTbcc) [Facebook](https://www.facebook.com/TBCC-Labs-112734580490523/)  | [https://tbccwallet.com/](https://tbccwallet.com/) | [wallet@tbccwallet.com](mailto:wallet@tbccwallet.com) |
-| TCADB | TCADB-888 | ⚠️No | [Reddit](https://www.reddit.com/r/TrustToken/) [Github](https://github.com/TrustToken) [Linkedin](https://www.linkedin.com/company/trusttoken/) [Medium](https://blog.trusttoken.com) [Telegram](https://t.me/joinchat/HihkMkTja1gIyBRM1J1_vg) [Twitter](https://twitter.com/TrustToken)  | [https://trusttoken.com](https://trusttoken.com) | [exchange-support@trusttoken.com](mailto:exchange-support@trusttoken.com) |
+| TAUDB | TAUDB-888 | ⚠️No |  |  |  |
+| TBC | TBC-3A7 | ⚠️No |  |  |  |
+| TCADB | TCADB-888 | ⚠️No |  |  |  |
 | TED | TED-A85 | ⚠️No |  |  |  |
-| TGBPB | TGBPB-888 | ⚠️No | [Reddit](https://www.reddit.com/r/TrustToken/) [Github](https://github.com/TrustToken) [Linkedin](https://www.linkedin.com/company/trusttoken/) [Medium](https://blog.trusttoken.com) [Telegram](https://t.me/joinchat/HihkMkTja1gIyBRM1J1_vg) [Twitter](https://twitter.com/TrustToken)  | [https://trusttoken.com](https://trusttoken.com) | [exchange-support@trusttoken.com](mailto:exchange-support@trusttoken.com) |
+| TGBPB | TGBPB-888 | ⚠️No |  |  |  |
 | TGEBI | TGEBI-61C | ⚠️No |  |  |  |
-| THKDB | THKDB-888 | ⚠️No | [Reddit](https://www.reddit.com/r/TrustToken/) [Github](https://github.com/TrustToken) [Linkedin](https://www.linkedin.com/company/trusttoken/) [Medium](https://blog.trusttoken.com) [Telegram](https://t.me/joinchat/HihkMkTja1gIyBRM1J1_vg) [Twitter](https://twitter.com/TrustToken)  | [https://trusttoken.com](https://trusttoken.com) | [exchange-support@trusttoken.com](mailto:exchange-support@trusttoken.com) |
+| THKDB | THKDB-888 | ⚠️No |  |  |  |
 | TM2 | TM2-0C4 | ⚠️No |  |  |  |
 | TMCO | TMCO-88A | ⚠️No |  |  |  |
 | TMPO | TMPO-449 | ⚠️No |  |  |  |
 | TMSR | TMSR-B34 | ⚠️No |  |  |  |
-| TOMOB | TOMOB-4BC | ⚠️No | [Telegram](https://t.me/tomochain) [Reddit](https://www.reddit.com/r/Tomochain/) [Medium](https://medium.com/tomochain) [Youtube](https://www.youtube.com/channel/UCXZ2rmjM84qS80RCj6vQ1gw) [Twitter](https://twitter.com/TomoChainANN) [Facebook](https://www.facebook.com/tomochainofficial/) [Coinmarketcap](https://coinmarketcap.com/currencies/tomochain/) [Binance Info](https://info.binance.com/en/currencies/tomochain) [Github](https://github.com/tomochain) [Binance Research](https://research.binance.com/en/projects/tomochain)  | [https://tomochain.com](https://tomochain.com) | [admin@tomochain.com](mailto:admin@tomochain.com) |
-| TOP | TOP-491 | ⚠️No | [Telegram](https://t.me/topnetwork_top) [Reddit](https://www.reddit.com/user/topnetwork_top) [Medium](https://medium.com/@topnetwork) [Youtube](https://www.youtube.com/channel/UCmqgnSFc6JoebcT3FJWSv-g?view_as=subscriber) [Twitter](https://twitter.com/topnetwork_top) [Facebook](https://www.facebook.com/topnetworktop)  | [https://www.topnetwork.org/](https://www.topnetwork.org/) | [contact@topnetwork.org](mailto:contact@topnetwork.org) |
+| TOMOB | TOMOB-4BC | ⚠️No |  |  |  |
+| TOP | TOP-491 | ⚠️No |  |  |  |
 | TREI | TREI-477 | ⚠️No |  |  |  |
 | TRET | TRET-805 | ⚠️No |  |  |  |
-| TROY | TROY-9B8 | ⚠️No | [Telegram](https://t.me/troytrade_official) [Medium](https://medium.com/troy-trade) [Youtube](https://www.youtube.com/channel/UCKwLClDMSYXqkV9517OQdaA) [Twitter](https://twitter.com/troytrade) [Binance Research](https://research.binance.com/en/projects/troy)  | [https://troytrade.com/](https://troytrade.com/) | [business@troytrade.com](mailto:business@troytrade.com) |
+| TROY | TROY-9B8 | ⚠️No |  |  |  |
 | TRUE | TRUE-D84 | ⚠️No |  |  |  |
-| TRXB | TRXB-2E6 | ⚠️No | [Telegram](https://t.me/tronnetworkEN) [Reddit](https://www.reddit.com/r/Tronix/) [Medium](https://medium.com/tron-foundation) [Youtube](https://www.youtube.com/channel/UC5OPOGRq02iK-0T9sKse_kA) [Twitter](https://twitter.com/Tronfoundation) [Facebook](https://www.facebook.com/tronfoundation)  | [https://tron.network/](https://tron.network/) | [service@tron.network](mailto:service@tron.network) |
+| TRXB | TRXB-2E6 | ⚠️No |  |  |  |
 | TSDA | TSDA-FE5 | ⚠️No |  |  |  |
 | TSTINTG | TSTINTG-155 | ⚠️No |  |  |  |
 | TUN | TUN-058 | ⚠️No |  |  |  |
-| TUSDB | TUSDB-888 | ⚠️No | [Coinmarketcap](https://coinmarketcap.com/currencies/trueusd/) [Reddit](https://www.reddit.com/r/TrustToken/) [Github](https://github.com/TrustToken) [Linkedin](https://www.linkedin.com/company/trusttoken/) [Medium](https://blog.trusttoken.com) [Telegram](https://t.me/joinchat/HihkMkTja1gIyBRM1J1_vg) [Twitter](https://twitter.com/TrustToken) [Binance Research](https://research.binance.com/en/projects/trueusd)  | [https://trusttoken.com](https://trusttoken.com) | [exchange-support@trusttoken.com](mailto:exchange-support@trusttoken.com) |
+| TUSDB | TUSDB-888 | ⚠️No |  |  |  |
 | UATLA | UATLA-8B9 | ⚠️No |  |  |  |
 | UBETS | UBETS-068 | ⚠️No |  |  |  |
 | UCOQ | UCOQ-087 | ⚠️No |  |  |  |
 | UGAS | UGAS-B0C | ⚠️No |  |  |  |
-| UND | UND-EBC | ⚠️No | [Twitter](https://twitter.com/unificationUND) [Medium]( https://medium.com/unificationfoundation) [Youtube](https://www.youtube.com/channel/UCUrnvYlnrchkeIFBx4LzPGA) [Telegram](https://t.me/unificationfoundation)  | [http://www.unification.com](http://www.unification.com) |  |
-| UPX | UPX-F3E | ⚠️No | [Telegram](https://t.me/udapcommunity) [Medium](https://medium.com/udap) [Github](https://github.com/udap) [Twitter](https://twitter.com/udapfoundation) [Facebook](https://www.facebook.com/udapfoundation) [Linkedin](https://www.linkedin.com/company/udap/) [Youtube](https://www.youtube.com/channel/UCDl000RbiE5ywU7x2igWWQg)  | [https://www.udap.io/](https://www.udap.io/) | [info@udap.io](mailto:info@udap.io) |
-| USDH | USDH-5B5 | ⚠️No | [Twitter](https://twitter.com/thehonestnode) [Telegram](https://t.me/theHonestNode) [Facebook](https://www.facebook.com/thehonestnode) [Medium](https://medium.com/@honestnode123) [Reddit](https://www.reddit.com/r/HonestNode) [Instagram](https://www.instagram.com/thehonestnode) [Linkedin](https://www.linkedin.com/company/honestnode)  | [https://www.honestcoin.io](https://www.honestcoin.io) | [contact@honestnode.io](mailto:contact@honestnode.io) |
-| USDSB | USDSB-1AC | ⚠️No | [Facebook](https://www.facebook.com/stablycoin) [Twitter](https://twitter.com/stablycoin) [Medium](https://medium.com/stably-blog) [Instagram](https://www.instagram.com/stableusd/)  | [https://www.stably.io](https://www.stably.io) |  |
+| UND | UND-EBC | ⚠️No |  |  |  |
+| UPX | UPX-F3E | ⚠️No |  |  |  |
+| USDH | USDH-5B5 | ⚠️No |  |  |  |
+| USDSB | USDSB-1AC | ⚠️No |  |  |  |
 | UTEY | UTEY-3C5 | ⚠️No |  |  |  |
 | UTU | UTU-159 | ⚠️No |  |  |  |
 | UUBI | UUBI-E6F | ⚠️No |  |  |  |
 | UUU | UUU-35C | ⚠️No |  |  |  |
 | UWEAL | UWEAL-87C | ⚠️No |  |  |  |
 | VDX | VDX-A17 | ⚠️No |  |  |  |
-| VIDT | VIDT-F53 | ⚠️No | [Telegram](https://t.me/vidtoken) [Reddit](https://www.reddit.com/r/VIDT) [Medium](https://medium.com/@pim_vee) [Youtube](https://www.youtube.com/channel/UCh6xfbjMUeYFUO-2O_wRSBA/videos) [Twitter](https://twitter.com/v_id_blockchain) [Github](https://github.com/V-ID/V-ID-Token) [Coinmarketcap](https://coinmarketcap.com/currencies/v-id/) [Linkedin](https://www.linkedin.com/company/v-id/) [Binance Research](https://research.binance.com/en/projects/vidt)  | [https://about.v-id.org/token](https://about.v-id.org/token) | [service@v-id.org](mailto:service@v-id.org) |
-| VNDC | VNDC-DB9 | ⚠️No | [Telegram](https://t.me/vndcvietnam) [Medium](https://medium.com/vndc-ltd) [Twitter](https://twitter.com/Vndcstable) [Facebook](https://www.facebook.com/vndc.io) [Github](https://github.com/vndc-it)  | [https://vndc.io/](https://vndc.io/) | [hi@vndc.io](mailto:hi@vndc.io) |
-| VRAB | VRAB-B56 | ⚠️No | [Telegram](http://t.me/verasitychat) [Twitter](https://twitter.com/verasitytech) [Facebook](https://facebook.com/verasitytech)  | [https://verasity.io](https://verasity.io) |  |
+| VIDT | VIDT-F53 | ⚠️No |  |  |  |
+| VNDC | VNDC-DB9 | ⚠️No |  |  |  |
+| VRAB | VRAB-B56 | ⚠️No |  |  |  |
 | WGR | WGR-D3D | ⚠️No |  |  |  |
-| WICC | WICC-01D | ⚠️No | [Telegram](https://t.me/wiccofficial) [Facebook](https://www.facebook.com/waykichainofficial) [Reddit](https://www.reddit.com/r/WICCProject/) [Medium](https://medium.com/@waykichainwicc) [Youtube]( https://www.youtube.com/channel/UCjudZhgPcAX74LVxi23kKvg) [Twitter](https://twitter.com/wayki_chain) [Coinmarketcap](https://coinmarketcap.com/zh/currencies/waykichain/) [Binance Info](https://info.binance.com/en/currencies/waykichain) [Linkedin](https://www.linkedin.com/company/waykichain%E7%BB%B4%E5%9F%BA%E9%93%BE/) [Github](https://github.com/WaykiChain/WaykiChain)  | [https://www.waykichain.com/](https://www.waykichain.com/) | [biz@waykichainhk.com](mailto:biz@waykichainhk.com) |
-| WINB | WINB-41F | ⚠️No | [Telegram](https://t.me/WINk_org_official) [Medium](https://medium.com/@winkfoundation) [Twitter](https://twitter.com/winkorg) [Binance Research](https://research.binance.com/en/projects/wink)  | [https://www.wink.org/#/](https://www.wink.org/#/) | [pr@wink.org](mailto:pr@wink.org) |
-| WISH | WISH-2D5 | ⚠️No | [Twitter](https://twitter.com/mywishplatform) [Telegram](https://t.me/MyWish_platform)  | [https://mywish.io/](https://mywish.io/) |  |
+| WICC | WICC-01D | ⚠️No |  |  |  |
+| WINB | WINB-41F | ⚠️No |  |  |  |
+| WISH | WISH-2D5 | ⚠️No |  |  |  |
 | WOOPX | WOOPX-9C4 | ⚠️No |  |  |  |
 | XBASE | XBASE-CD2 | ⚠️No |  |  |  |
 | XIO | XIO-B05 | ⚠️No |  |  |  |
-| XNS | XNS-760 | ⚠️No | [Twitter](https://twitter.com/xeonbit) [Facebook](https://www.facebook.com/xeonbit) [Telegram](https://t.me/xeonbitgroup) [Discord](https://discordapp.com/invite/HYcJPFG) [Youtube](https://www.youtube.com/channel/UCn04eVg2x_j7BjuSoV1mC0g) [Medium](https://medium.com/@xeonbit) [Reddit](https://www.reddit.com/r/Xeonbit/) [Linkedin](https://www.linkedin.com/company/xeonbit/)  | [https://xeonbit.com/](https://xeonbit.com/) |  |
-| XRPBEAR | XRPBEAR-00B | ⚠️No | [Telegram](https://t.me/FTX_Official)  | [https://ftx.com/](https://ftx.com/) |  |
-| XRPBULL | XRPBULL-E7C | ⚠️No | [Telegram](https://t.me/FTX_Official)  | [https://ftx.com/](https://ftx.com/) |  |
+| XNS | XNS-760 | ⚠️No |  |  |  |
+| XRPBEAR | XRPBEAR-00B | ⚠️No |  |  |  |
+| XRPBULL | XRPBULL-E7C | ⚠️No |  |  |  |
 | XWG | XWG-478 | ⚠️No |  |  |  |
 | YEE | YEE-EAE | ⚠️No |  |  |  |
 | YELUM | YELUM-0B7 | ⚠️No |  |  |  |
 | YETI | YETI-3F7 | ⚠️No |  |  |  |
 | ZDPB | ZDPB-C37 | ⚠️No |  |  |  |
-| ZEBI | ZEBI-84F | ⚠️No | [Telegram](https://t.me/ZebiData) [Linkedin](https://www.linkedin.com/company/zebidata) [Reddit](https://www.reddit.com/r/Zebidataindia/) [Medium](https://medium.com/@Zebidata) [Youtube](https://www.youtube.com/channel/UCrEFyjIGGznac_8nj9uhu2Q) [Twitter](https://twitter.com/ZebidataIndia) [Facebook](https://www.facebook.com/ZebidataIndia/) [Github](https://github.com/zebidata)  | [https://zebi.io/](https://zebi.io/) | [info@zebi.co](mailto:info@zebi.co) |
+| ZEBI | ZEBI-84F | ⚠️No |  |  |  |
 | ZED | ZED-A89 | ⚠️No |  |  |  |
 | ZIEA | ZIEA-C04 | ⚠️No |  |  |  |
 | ZPAY | ZPAY-29A | ⚠️No |  |  |  |
