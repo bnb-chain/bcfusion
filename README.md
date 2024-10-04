@@ -246,9 +246,9 @@ the bound assets.
 | MZK | MZK-2C7 | ⚠️No | [Twitter](https://twitter.com/muzika_official) [Medium](https://medium.com/@muzika_official) [Telegram](https://t.me/muzika_english)  |  |  |
 | NEW | NEW-09E | ⚠️No | [Telegram](https://t.me/newtonproject) [Reddit](https://www.reddit.com/user/newtonproject) [Medium](https://medium.com/@newtonproject) [Youtube](https://www.youtube.com/channel/UCO3hbqzT5abDbVKzK5EQigg) [Twitter](https://twitter.com/newton_project) [Facebook](https://www.facebook.com/newtonproject) [Coinmarketcap](https://coinmarketcap.com/currencies/newton/) [Binance Research](https://research.binance.com/en/projects/newton)  | [https://www.newtonproject.org/](https://www.newtonproject.org/) | [contact@newtonproject.org](mailto:contact@newtonproject.org) |
 | NEXO | NEXO-A84 | ⚠️No | [Medium](https://medium.com/nexo) [Twitter](https://twitter.com/NexoFinance) [Facebook](https://www.facebook.com/NexoFinance) [Coinmarketcap](https://coinmarketcap.com/currencies/nexo/) [Youtube](https://www.youtube.com/nexofinance) [Reddit](https://www.reddit.com/r/Nexo/) [Binance Info](https://info.binance.com/en/currencies/nexo)  | [https://nexo.io/](https://nexo.io/) | [info@nexo.io](mailto:info@nexo.io) |
-| NODE | NODE-F3A | ⚠️No | [Telegram](https://t.me/Pocketnode_techsupport) [Reddit](https://www.reddit.com/r/PocketNode/) [Medium](https://medium.com/pocket-node) [Twitter](https://twitter.com/pocketnodes)  | [https://pocketnode.net/](https://pocketnode.net/) | [support@pocketnode.net](mailto:support@pocketnode.net) |
+| NODE | NODE-F3A | ⚠️No |  |  |  |
 | NOIZB | NOIZB-878 | ⚠️No |  |  |  |
-| ONE | ONE-5F9 | ⚠️No | [Telegram](https://t.me/harmony_one) [Twitter](https://twitter.com/harmonyprotocol) [Facebook](https://www.facebook.com/harmonyoneprotocol/) [Medium](https://medium.com/harmony-one) [Youtube](https://harmony.one/youtube) [Github](https://github.com/harmony-one) [Binance Research](https://research.binance.com/en/projects/harmony)  | [https://harmony.one/](https://harmony.one/) |  |
+| ONE | ONE-5F9 | ⚠️No |  |  |  |
 | OWTX | OWTX-A6B | ⚠️No |  |  |  |
 | PALEO | PALEO-D1B | ⚠️No |  |  |  |
 | PALQI | PALQI-063 | ⚠️No |  |  |  |
