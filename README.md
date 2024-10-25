@@ -249,7 +249,7 @@ the bound assets.
 | NODE | NODE-F3A | ⚠️No | [Telegram](https://t.me/Pocketnode_techsupport) [Reddit](https://www.reddit.com/r/PocketNode/) [Medium](https://medium.com/pocket-node) [Twitter](https://twitter.com/pocketnodes)  | [https://pocketnode.net/](https://pocketnode.net/) | [support@pocketnode.net](mailto:support@pocketnode.net) |
 | NOIZB | NOIZB-878 | ⚠️No |  |  |  |
 | ONE | ONE-5F9 | ⚠️No | [Telegram](https://t.me/harmony_one) [Twitter](https://twitter.com/harmonyprotocol) [Facebook](https://www.facebook.com/harmonyoneprotocol/) [Medium](https://medium.com/harmony-one) [Youtube](https://harmony.one/youtube) [Github](https://github.com/harmony-one) [Binance Research](https://research.binance.com/en/projects/harmony)  | [https://harmony.one/](https://harmony.one/) |  |
-| OWTX | OWTX-A6B | ⚠️No | [Twitter]( https://twitter.com/openweb_network) [Telegram]( https://t.me/openweb_network) [Medium]( https://medium.com/openweb-network)  | [https://openweb.network/](https://openweb.network/) |  |
+| OWTX | OWTX-A6B | ⚠️No |  |  |  |
 | PALEO | PALEO-D1B | ⚠️No |  |  |  |
 | PALQI | PALQI-063 | ⚠️No |  |  |  |
 | PCAT | PCAT-4BB | ⚠️No |  |  |  |
