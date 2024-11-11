@@ -256,7 +256,7 @@ the bound assets.
 | PFIO | PFIO-7D0 | ⚠️No |  |  |  |
 | PHV | PHV-4A1 | ⚠️No |  |  |  |
 | PIBNB | PIBNB-43C | ⚠️No |  |  |  |
-| PLG | PLG-D8D | ⚠️No | [Twitter](https://twitter.com/Pledgecamp) [Telegram](https://t.me/pledgecamp) [Medium](https://medium.com/pledgecamp)  | [https://pledgecamp.com/](https://pledgecamp.com/) |  |
+| PLG | PLG-D8D | ⚠️No |  |  |  |
 | PLMT | PLMT-CB5 | ⚠️No |  |  |  |
 | POPB | POPB-400 | ⚠️No |  |  |  |
 | PPE | PPE-942 | ⚠️No |  |  |  |
@@ -265,7 +265,7 @@ the bound assets.
 | PROM | PROM-BB3 | ⚠️No |  |  |  |
 | PRTUS | PRTUS-95B | ⚠️No |  |  |  |
 | PSG | PSG-CEE | ⚠️No |  |  |  |
-| PVT | PVT-554 | ⚠️No | [Telegram](https://t.me/pivotglobal) [Twitter](https://twitter.com/pivot_pvt) [Binance Info](https://info.binance.com/en/currencies/pivot-token)  | [https://www.pivot.one](https://www.pivot.one) | [support@pivot.one](mailto:support@pivot.one) |
+| PVT | PVT-554 | ⚠️No |  |  |  |
 | PYN | PYN-C37 | ⚠️No |  |  |  |
 | QARK | QARK-FCE | ⚠️No |  |  |  |
 | QBC | QBC-ADA | ⚠️No |  |  |  |
