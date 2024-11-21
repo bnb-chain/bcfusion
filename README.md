@@ -13,7 +13,9 @@ In this repository, we meticulously track the progress, challenges, and mileston
 Fusion project. Our aim is to provide a comprehensive and up-to-date resource that reflects the dynamic and evolving
 nature of blockchain technology.
 
-Be noted: even a BEP20 token is already issued on the BSC, it does not mean the asset is bound, the asset owner must
+Note 1: BNB can be recovered on BSC after BC fusion, although you cannot find it in the following list.
+
+Note 2:: even a BEP20 token is already issued on the BSC, it does not mean the asset is bound, the asset owner must
 take actions to bind them together to enable the crosschain transfer. Please refer to the aforementioned announcement
 for more information. In the following table, the `BSC Contract Address` field only shows the contract address for
 the bound assets.
