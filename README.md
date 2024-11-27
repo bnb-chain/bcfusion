@@ -291,7 +291,7 @@ the bound assets.
 | RPTT | RPTT-B83 | ⚠️No |  |  |  |
 | RTGE | RTGE-715 | ⚠️No |  |  |  |
 | RUNE | RUNE-67C | ⚠️No |  |  |  |
-| RUNE | RUNE-B1A | ⚠️No |  | [https://thorchain.org](https://thorchain.org) |  |
+| RUNE | RUNE-B1A | ⚠️No |  |  |  |
 | RVID | RVID-807 | ⚠️No |  |  |  |
 | SBC | SBC-5D4 | ⚠️No |  |  |  |
 | SCK | SCK-268 | ⚠️No |  |  |  |
@@ -305,7 +305,7 @@ the bound assets.
 | SNDD | SNDD-384 | ⚠️No |  |  |  |
 | SOLEN | SOLEN-263 | ⚠️No |  |  |  |
 | SPIN | SPIN-9DD | ⚠️No |  |  |  |
-| SPNDB | SPNDB-916 | ⚠️No | [Twitter](https://twitter.com/SpendFoundation) [Facebook](https://facebook.com/SpendFoundation) [Telegram](https://t.me/SpendChat) [Reddit](https://reddit.com/r/Spend) [Instagram](https://www.instagram.com/SpendCard/) [Medium](https://medium.com/spend)  | [https://spendcoin.org](https://spendcoin.org) |  |
+| SPNDB | SPNDB-916 | ⚠️No |  |  |  |
 | SPOOL | SPOOL-1F0 | ⚠️No |  |  |  |
 | SPTIX | SPTIX-826 | ⚠️No |  |  |  |
 | STIPS | STIPS-14F | ⚠️No |  |  |  |
@@ -316,20 +316,20 @@ the bound assets.
 | SYNDA | SYNDA-4FA | ⚠️No |  |  |  |
 | TAUDB | TAUDB-888 | ⚠️No |  |  |  |
 | TBC | TBC-3A7 | ⚠️No |  |  |  |
-| TCADB | TCADB-888 | ⚠️No | [Reddit](https://www.reddit.com/r/TrustToken/) [Github](https://github.com/TrustToken) [Linkedin](https://www.linkedin.com/company/trusttoken/) [Medium](https://blog.trusttoken.com) [Telegram](https://t.me/joinchat/HihkMkTja1gIyBRM1J1_vg) [Twitter](https://twitter.com/TrustToken)  | [https://trusttoken.com](https://trusttoken.com) | [exchange-support@trusttoken.com](mailto:exchange-support@trusttoken.com) |
+| TCADB | TCADB-888 | ⚠️No |  |  |  |
 | TED | TED-A85 | ⚠️No |  |  |  |
-| TGBPB | TGBPB-888 | ⚠️No | [Reddit](https://www.reddit.com/r/TrustToken/) [Github](https://github.com/TrustToken) [Linkedin](https://www.linkedin.com/company/trusttoken/) [Medium](https://blog.trusttoken.com) [Telegram](https://t.me/joinchat/HihkMkTja1gIyBRM1J1_vg) [Twitter](https://twitter.com/TrustToken)  | [https://trusttoken.com](https://trusttoken.com) | [exchange-support@trusttoken.com](mailto:exchange-support@trusttoken.com) |
+| TGBPB | TGBPB-888 | ⚠️No |  |  |  |
 | TGEBI | TGEBI-61C | ⚠️No |  |  |  |
-| THKDB | THKDB-888 | ⚠️No | [Reddit](https://www.reddit.com/r/TrustToken/) [Github](https://github.com/TrustToken) [Linkedin](https://www.linkedin.com/company/trusttoken/) [Medium](https://blog.trusttoken.com) [Telegram](https://t.me/joinchat/HihkMkTja1gIyBRM1J1_vg) [Twitter](https://twitter.com/TrustToken)  | [https://trusttoken.com](https://trusttoken.com) | [exchange-support@trusttoken.com](mailto:exchange-support@trusttoken.com) |
+| THKDB | THKDB-888 | ⚠️No |  |  |  |
 | TM2 | TM2-0C4 | ⚠️No |  |  |  |
 | TMCO | TMCO-88A | ⚠️No |  |  |  |
 | TMPO | TMPO-449 | ⚠️No |  |  |  |
 | TMSR | TMSR-B34 | ⚠️No |  |  |  |
-| TOMOB | TOMOB-4BC | ⚠️No |  |  |  |
-| TOP | TOP-491 | ⚠️No |  |  |  |
+| TOMOB | TOMOB-4BC | ⚠️No | [Telegram](https://t.me/tomochain) [Reddit](https://www.reddit.com/r/Tomochain/) [Medium](https://medium.com/tomochain) [Youtube](https://www.youtube.com/channel/UCXZ2rmjM84qS80RCj6vQ1gw) [Twitter](https://twitter.com/TomoChainANN) [Facebook](https://www.facebook.com/tomochainofficial/) [Coinmarketcap](https://coinmarketcap.com/currencies/tomochain/) [Binance Info](https://info.binance.com/en/currencies/tomochain) [Github](https://github.com/tomochain) [Binance Research](https://research.binance.com/en/projects/tomochain)  | [https://tomochain.com](https://tomochain.com) | [admin@tomochain.com](mailto:admin@tomochain.com) |
+| TOP | TOP-491 | ⚠️No | [Telegram](https://t.me/topnetwork_top) [Reddit](https://www.reddit.com/user/topnetwork_top) [Medium](https://medium.com/@topnetwork) [Youtube](https://www.youtube.com/channel/UCmqgnSFc6JoebcT3FJWSv-g?view_as=subscriber) [Twitter](https://twitter.com/topnetwork_top) [Facebook](https://www.facebook.com/topnetworktop)  | [https://www.topnetwork.org/](https://www.topnetwork.org/) | [contact@topnetwork.org](mailto:contact@topnetwork.org) |
 | TREI | TREI-477 | ⚠️No |  |  |  |
 | TRET | TRET-805 | ⚠️No |  |  |  |
-| TROY | TROY-9B8 | ⚠️No |  |  |  |
+| TROY | TROY-9B8 | ⚠️No | [Telegram](https://t.me/troytrade_official) [Medium](https://medium.com/troy-trade) [Youtube](https://www.youtube.com/channel/UCKwLClDMSYXqkV9517OQdaA) [Twitter](https://twitter.com/troytrade) [Binance Research](https://research.binance.com/en/projects/troy)  | [https://troytrade.com/](https://troytrade.com/) | [business@troytrade.com](mailto:business@troytrade.com) |
 | TRUE | TRUE-D84 | ⚠️No |  |  |  |
 | TRXB | TRXB-2E6 | ⚠️No |  |  |  |
 | TSDA | TSDA-FE5 | ⚠️No |  |  |  |
