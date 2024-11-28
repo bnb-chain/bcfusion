@@ -268,7 +268,7 @@ the bound assets.
 | PRTUS | PRTUS-95B | ⚠️No |  |  |  |
 | PSG | PSG-CEE | ⚠️No |  |  |  |
 | PVT | PVT-554 | ⚠️No | [Telegram](https://t.me/pivotglobal) [Twitter](https://twitter.com/pivot_pvt) [Binance Info](https://info.binance.com/en/currencies/pivot-token)  | [https://www.pivot.one](https://www.pivot.one) | [support@pivot.one](mailto:support@pivot.one) |
-| PYN | PYN-C37 | ⚠️No | [Telegram](https://t.me/paycent) [Medium](https://medium.com/@paycent) [Twitter](https://twitter.com/@PaycentGlobal) [Facebook](https://www.facebook.com/paycent.sg) [Coinmarketcap](https://coinmarketcap.com/currencies/paycent/)  | [https://paycent.com/](https://paycent.com/) | [support@paycent.com](mailto:support@paycent.com) |
+| PYN | PYN-C37 | ⚠️No |  |  |  |
 | QARK | QARK-FCE | ⚠️No |  |  |  |
 | QBC | QBC-ADA | ⚠️No |  |  |  |
 | QBX | QBX-38C | ⚠️No |  |  |  |
@@ -301,7 +301,7 @@ the bound assets.
 | SETSU | SETSU-559 | ⚠️No |  |  |  |
 | SHE | SHE-0FA | ⚠️No |  |  |  |
 | SIMT | SIMT-E65 | ⚠️No |  |  |  |
-| SLV | SLV-986 | ⚠️No | [Telegram](https://t.me/silverwayotc) [Medium](https://medium.com/silverwayplatform) [Binance Info](https://info.binance.com/en/currencies/silverway) [Twitter](https://twitter.com/silverwayotc) [Coinmarketcap](https://coinmarketcap.com/currencies/silverway/)  | [https://silverway.io](https://silverway.io) | [sergey@silverway.io](mailto:sergey@silverway.io) |
+| SLV | SLV-986 | ⚠️No |  |  |  |
 | SNDD | SNDD-384 | ⚠️No |  |  |  |
 | SOLEN | SOLEN-263 | ⚠️No |  |  |  |
 | SPIN | SPIN-9DD | ⚠️No |  |  |  |
@@ -325,11 +325,11 @@ the bound assets.
 | TMCO | TMCO-88A | ⚠️No |  |  |  |
 | TMPO | TMPO-449 | ⚠️No |  |  |  |
 | TMSR | TMSR-B34 | ⚠️No |  |  |  |
-| TOMOB | TOMOB-4BC | ⚠️No | [Telegram](https://t.me/tomochain) [Reddit](https://www.reddit.com/r/Tomochain/) [Medium](https://medium.com/tomochain) [Youtube](https://www.youtube.com/channel/UCXZ2rmjM84qS80RCj6vQ1gw) [Twitter](https://twitter.com/TomoChainANN) [Facebook](https://www.facebook.com/tomochainofficial/) [Coinmarketcap](https://coinmarketcap.com/currencies/tomochain/) [Binance Info](https://info.binance.com/en/currencies/tomochain) [Github](https://github.com/tomochain) [Binance Research](https://research.binance.com/en/projects/tomochain)  | [https://tomochain.com](https://tomochain.com) | [admin@tomochain.com](mailto:admin@tomochain.com) |
-| TOP | TOP-491 | ⚠️No | [Telegram](https://t.me/topnetwork_top) [Reddit](https://www.reddit.com/user/topnetwork_top) [Medium](https://medium.com/@topnetwork) [Youtube](https://www.youtube.com/channel/UCmqgnSFc6JoebcT3FJWSv-g?view_as=subscriber) [Twitter](https://twitter.com/topnetwork_top) [Facebook](https://www.facebook.com/topnetworktop)  | [https://www.topnetwork.org/](https://www.topnetwork.org/) | [contact@topnetwork.org](mailto:contact@topnetwork.org) |
+| TOMOB | TOMOB-4BC | ⚠️No |  |  |  |
+| TOP | TOP-491 | ⚠️No |  |  |  |
 | TREI | TREI-477 | ⚠️No |  |  |  |
 | TRET | TRET-805 | ⚠️No |  |  |  |
-| TROY | TROY-9B8 | ⚠️No | [Telegram](https://t.me/troytrade_official) [Medium](https://medium.com/troy-trade) [Youtube](https://www.youtube.com/channel/UCKwLClDMSYXqkV9517OQdaA) [Twitter](https://twitter.com/troytrade) [Binance Research](https://research.binance.com/en/projects/troy)  | [https://troytrade.com/](https://troytrade.com/) | [business@troytrade.com](mailto:business@troytrade.com) |
+| TROY | TROY-9B8 | ⚠️No |  |  |  |
 | TRUE | TRUE-D84 | ⚠️No |  |  |  |
 | TRXB | TRXB-2E6 | ⚠️No |  |  |  |
 | TSDA | TSDA-FE5 | ⚠️No |  |  |  |
