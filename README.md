@@ -360,15 +360,15 @@ the bound assets.
 | WOOPX | WOOPX-9C4 | ⚠️No |  |  |  |
 | XBASE | XBASE-CD2 | ⚠️No |  |  |  |
 | XIO | XIO-B05 | ⚠️No |  |  |  |
-| XNS | XNS-760 | ⚠️No | [Twitter](https://twitter.com/xeonbit) [Facebook](https://www.facebook.com/xeonbit) [Telegram](https://t.me/xeonbitgroup) [Discord](https://discordapp.com/invite/HYcJPFG) [Youtube](https://www.youtube.com/channel/UCn04eVg2x_j7BjuSoV1mC0g) [Medium](https://medium.com/@xeonbit) [Reddit](https://www.reddit.com/r/Xeonbit/) [Linkedin](https://www.linkedin.com/company/xeonbit/)  | [https://xeonbit.com/](https://xeonbit.com/) |  |
-| XRPBEAR | XRPBEAR-00B | ⚠️No | [Telegram](https://t.me/FTX_Official)  | [https://ftx.com/](https://ftx.com/) |  |
-| XRPBULL | XRPBULL-E7C | ⚠️No | [Telegram](https://t.me/FTX_Official)  | [https://ftx.com/](https://ftx.com/) |  |
+| XNS | XNS-760 | ⚠️No |  |  |  |
+| XRPBEAR | XRPBEAR-00B | ⚠️No |  |  |  |
+| XRPBULL | XRPBULL-E7C | ⚠️No |  |  |  |
 | XWG | XWG-478 | ⚠️No |  |  |  |
 | YEE | YEE-EAE | ⚠️No |  |  |  |
 | YELUM | YELUM-0B7 | ⚠️No |  |  |  |
 | YETI | YETI-3F7 | ⚠️No |  |  |  |
 | ZDPB | ZDPB-C37 | ⚠️No |  |  |  |
-| ZEBI | ZEBI-84F | ⚠️No | [Telegram](https://t.me/ZebiData) [Linkedin](https://www.linkedin.com/company/zebidata) [Reddit](https://www.reddit.com/r/Zebidataindia/) [Medium](https://medium.com/@Zebidata) [Youtube](https://www.youtube.com/channel/UCrEFyjIGGznac_8nj9uhu2Q) [Twitter](https://twitter.com/ZebidataIndia) [Facebook](https://www.facebook.com/ZebidataIndia/) [Github](https://github.com/zebidata)  | [https://zebi.io/](https://zebi.io/) | [info@zebi.co](mailto:info@zebi.co) |
+| ZEBI | ZEBI-84F | ⚠️No |  |  |  |
 | ZED | ZED-A89 | ⚠️No |  |  |  |
 | ZIEA | ZIEA-C04 | ⚠️No |  |  |  |
 | ZPAY | ZPAY-29A | ⚠️No |  |  |  |
