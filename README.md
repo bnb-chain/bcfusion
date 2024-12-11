@@ -368,7 +368,7 @@ the bound assets.
 | YELUM | YELUM-0B7 | ⚠️No |  |  |  |
 | YETI | YETI-3F7 | ⚠️No |  |  |  |
 | ZDPB | ZDPB-C37 | ⚠️No |  |  |  |
-| ZEBI | ZEBI-84F | ⚠️No |  |  |  |
+| ZEBI | ZEBI-84F | ⚠️No | [Telegram](https://t.me/ZebiData) [Linkedin](https://www.linkedin.com/company/zebidata) [Reddit](https://www.reddit.com/r/Zebidataindia/) [Medium](https://medium.com/@Zebidata) [Youtube](https://www.youtube.com/channel/UCrEFyjIGGznac_8nj9uhu2Q) [Twitter](https://twitter.com/ZebidataIndia) [Facebook](https://www.facebook.com/ZebidataIndia/) [Github](https://github.com/zebidata)  | [https://zebi.io/](https://zebi.io/) | [info@zebi.co](mailto:info@zebi.co) |
 | ZED | ZED-A89 | ⚠️No |  |  |  |
 | ZIEA | ZIEA-C04 | ⚠️No |  |  |  |
 | ZPAY | ZPAY-29A | ⚠️No |  |  |  |
